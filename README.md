@@ -1,4 +1,4 @@
-## Hello, welcome to my personal introduction
+# Hello, welcome to my personal introduction
 
 ## directory
 - [About me](#About-me)
